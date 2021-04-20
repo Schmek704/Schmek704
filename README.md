@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Schmek704
-- 👀 I’m interested in all things coding, with a professional focus on data science and machine learning. 
-- 🌱 I’m currently working on certifications in Python and data science, with a general focus towards adding to my professional profile of systems management and analysis with my current job. I have completed several IBM based Professional Certification courses, including Data Analytics and data Science, as well as developing a Full Stack Cloud certification. You can find several Python code snippets in my list of repositories that I have used over the years. 
-- 💞️ I’m looking for any assistance and direction in data science and machine learning. Hoping to find a good mentor to bounce ideas off of and keep me focused on the goals at hand.
-- 📫 You can message me directly on GitHub if you have any relevant direction to follow or new certifications that are relevant to the goals. 
-
-<!---
-Schmek704/Schmek704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Schmek704!  I am a Software Manager, SysAdmin, and Operations/Data Analyst for a NC Restaurant company.  Been with the company for 19 years. Currently studying Data Analysis and Cloud Native Programming in my spare time and teaching my daughter how to code. I am proficient in Python, JavaScript, HTML, Tableau, Cognos, and Excel.  I am pasionate about solving riddles, larning new things, and playin with my pups. If you re in the data analytics field and would like to connect, please message me through GitHub and we can exchange contact info. Would like to use gitHub social as a way to extend my network of data contacts!
